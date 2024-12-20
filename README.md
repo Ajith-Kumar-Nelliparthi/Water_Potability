@@ -7,14 +7,14 @@ The Water Potability project aims to analyze water quality data to determine whe
 Water_Potability/
 │
 ├── Water_potability_prediction_deployed/
-   ├── Dockerfile
-   ├── Pipfile
-   ├── Pipfile.lock
-   ├── water_potability_predict.py
-   ├── water_potability_load.py
+   Dockerfile
+   Pipfile
+   Pipfile.lock
+   water_potability_predict.py
+   water_potability_load.py
 
-├── requirements.txt
-├── README.md
+requirements.txt
+README.md
 
 ## Prerequisites
 Python 3.13.0
