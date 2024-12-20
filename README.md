@@ -1,4 +1,4 @@
-### Water Potability
+## Water Potability
 
 ## Project Description
 The Water Potability project aims to analyze water quality data to determine whether the water is safe for human consumption. The project utilizes machine learning techniques to classify water samples based on various chemical and physical properties. This analysis can help in identifying unsafe water sources and ensuring public health.
